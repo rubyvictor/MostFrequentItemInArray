@@ -14,3 +14,5 @@ function mostFrequentItemCount(collection) {
 
   return Math.max(...output);
 }
+
+module.exports = mostFrequentItemCount;

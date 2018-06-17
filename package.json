@@ -1,0 +1,13 @@
+{
+  "name": "FindMostFrequentItem",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/rubyvictor/MostFrequentItemInArray.git",
+  "author": "Victor Lee <myleevictor@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "test": "jest",
+    "test:watch": "jest --watch",
+    "test:coverage": "jest --coverage"
+  }
+}
